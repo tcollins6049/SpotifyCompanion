@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "334962620499",
+    "project_id": "spotify-clone-ceac3",
+    "storage_bucket": "spotify-clone-ceac3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334962620499:android:79f3d0ad0ae9e1a450aea6",
+        "android_client_info": {
+          "package_name": "com.tutorialapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWNJ0RI-bbiUXNL8HMnS8h9l4e8shC_Nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
