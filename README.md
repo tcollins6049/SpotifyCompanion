@@ -3,6 +3,8 @@
 ## Overview
 The goal of this application is to enhance the Spotify user's experience by allowing them to manage there playback queues with advanced functionality. Whether Spotify is running on the same device or a different one, this app may be used to provide additional controls and features.
 
+Only on Android at the moment.
+
 ## Features
 ### User Authentication
 - **Firebase Integration**: Secure and reliable user authentication.
